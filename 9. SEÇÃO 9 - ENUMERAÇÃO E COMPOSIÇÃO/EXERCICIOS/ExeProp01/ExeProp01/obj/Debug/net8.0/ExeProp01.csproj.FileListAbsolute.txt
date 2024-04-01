@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\bin\Debug\net8.0\ExeProp01.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\bin\Debug\net8.0\ExeProp01.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\bin\Debug\net8.0\ExeProp01.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\bin\Debug\net8.0\ExeProp01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\bin\Debug\net8.0\ExeProp01.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\refint\ExeProp01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ExeProp01.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeProp01\ExeProp01\obj\Debug\net8.0\ref\ExeProp01.dll

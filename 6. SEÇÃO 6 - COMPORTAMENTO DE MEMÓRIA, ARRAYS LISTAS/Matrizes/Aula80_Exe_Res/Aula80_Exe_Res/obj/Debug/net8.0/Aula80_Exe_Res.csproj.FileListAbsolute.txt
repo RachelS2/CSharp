@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\bin\Debug\net8.0\Aula80_Exe_Res.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\bin\Debug\net8.0\Aula80_Exe_Res.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\bin\Debug\net8.0\Aula80_Exe_Res.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\bin\Debug\net8.0\Aula80_Exe_Res.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\bin\Debug\net8.0\Aula80_Exe_Res.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\refint\Aula80_Exe_Res.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\Aula80_Exe_Res.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\Aula80_Exe_Res\Aula80_Exe_Res\obj\Debug\net8.0\ref\Aula80_Exe_Res.dll

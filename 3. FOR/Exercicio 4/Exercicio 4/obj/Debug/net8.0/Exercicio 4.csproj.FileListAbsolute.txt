@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\bin\Debug\net8.0\Exercicio 4.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\bin\Debug\net8.0\Exercicio 4.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\bin\Debug\net8.0\Exercicio 4.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\bin\Debug\net8.0\Exercicio 4.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\bin\Debug\net8.0\Exercicio 4.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\refint\Exercicio 4.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\Exercicio 4.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 4\Exercicio 4\obj\Debug\net8.0\ref\Exercicio 4.dll

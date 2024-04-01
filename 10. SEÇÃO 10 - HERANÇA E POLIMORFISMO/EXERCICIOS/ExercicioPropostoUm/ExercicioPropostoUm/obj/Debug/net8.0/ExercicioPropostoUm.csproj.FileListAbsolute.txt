@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\bin\Debug\net8.0\ExercicioPropostoUm.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\bin\Debug\net8.0\ExercicioPropostoUm.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\bin\Debug\net8.0\ExercicioPropostoUm.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\bin\Debug\net8.0\ExercicioPropostoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\bin\Debug\net8.0\ExercicioPropostoUm.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\refint\ExercicioPropostoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ExercicioPropostoUm.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoUm\ExercicioPropostoUm\obj\Debug\net8.0\ref\ExercicioPropostoUm.dll

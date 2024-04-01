@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\bin\Debug\net8.0\exefix02.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\bin\Debug\net8.0\exefix02.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\bin\Debug\net8.0\exefix02.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\bin\Debug\net8.0\exefix02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\bin\Debug\net8.0\exefix02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\refint\exefix02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\exefix02.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\exefix02\exefix02\obj\Debug\net8.0\ref\exefix02.dll

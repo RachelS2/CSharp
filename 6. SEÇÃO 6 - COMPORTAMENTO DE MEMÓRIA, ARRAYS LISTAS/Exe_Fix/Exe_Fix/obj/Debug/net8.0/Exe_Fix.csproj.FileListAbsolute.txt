@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\bin\Debug\net8.0\Exe_Fix.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\bin\Debug\net8.0\Exe_Fix.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\bin\Debug\net8.0\Exe_Fix.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\bin\Debug\net8.0\Exe_Fix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\bin\Debug\net8.0\Exe_Fix.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\refint\Exe_Fix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\Exe_Fix.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Exe_Fix\Exe_Fix\obj\Debug\net8.0\ref\Exe_Fix.dll

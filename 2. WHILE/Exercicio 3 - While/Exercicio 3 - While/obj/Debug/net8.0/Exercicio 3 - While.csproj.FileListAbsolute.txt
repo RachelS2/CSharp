@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\bin\Debug\net8.0\Exercicio 3 - While.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\bin\Debug\net8.0\Exercicio 3 - While.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\bin\Debug\net8.0\Exercicio 3 - While.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\bin\Debug\net8.0\Exercicio 3 - While.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\bin\Debug\net8.0\Exercicio 3 - While.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\refint\Exercicio 3 - While.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\Exercicio 3 - While.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\WHILE\Exercicio 3 - While\Exercicio 3 - While\obj\Debug\net8.0\ref\Exercicio 3 - While.dll

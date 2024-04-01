@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\bin\Debug\net8.0\aula123enum.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\bin\Debug\net8.0\aula123enum.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\bin\Debug\net8.0\aula123enum.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\bin\Debug\net8.0\aula123enum.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\bin\Debug\net8.0\aula123enum.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\refint\aula123enum.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\aula123enum.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Matrizes\mudandoconf\mudandoconf\obj\Debug\net8.0\ref\aula123enum.dll

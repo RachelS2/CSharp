@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\bin\Debug\net8.0\ExercicioPropostoDois.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\bin\Debug\net8.0\ExercicioPropostoDois.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\bin\Debug\net8.0\ExercicioPropostoDois.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\bin\Debug\net8.0\ExercicioPropostoDois.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\bin\Debug\net8.0\ExercicioPropostoDois.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\refint\ExercicioPropostoDois.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ExercicioPropostoDois.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioPropostoDois\ExercicioPropostoDois\obj\Debug\net8.0\ref\ExercicioPropostoDois.dll

@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\bin\Debug\net8.0\ExeRes02.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\bin\Debug\net8.0\ExeRes02.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\bin\Debug\net8.0\ExeRes02.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\bin\Debug\net8.0\ExeRes02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\bin\Debug\net8.0\ExeRes02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\refint\ExeRes02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ExeRes02.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\9. SEÇÃO 9 - ENUMERAÇÃO E COMPOSIÇÃO\EXERCICIOS\ExeRes02\ExeRes02\obj\Debug\net8.0\ref\ExeRes02.dll

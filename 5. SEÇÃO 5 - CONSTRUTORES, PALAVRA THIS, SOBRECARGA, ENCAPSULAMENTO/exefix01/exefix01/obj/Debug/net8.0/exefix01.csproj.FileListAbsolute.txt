@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\bin\Debug\net8.0\exefix01.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\bin\Debug\net8.0\exefix01.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\bin\Debug\net8.0\exefix01.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\bin\Debug\net8.0\exefix01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\bin\Debug\net8.0\exefix01.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\refint\exefix01.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\exefix01.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\5. SEÇÃO 5 - CONSTRUTORES, PALAVRA THIS, SOBRECARGA, ENCAPSULAMENTO\exefix01\exefix01\obj\Debug\net8.0\ref\exefix01.dll

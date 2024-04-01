@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\bin\Debug\net8.0\ExercicioResolvidoUm.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\bin\Debug\net8.0\ExercicioResolvidoUm.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\bin\Debug\net8.0\ExercicioResolvidoUm.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\bin\Debug\net8.0\ExercicioResolvidoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\bin\Debug\net8.0\ExercicioResolvidoUm.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\refint\ExercicioResolvidoUm.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ExercicioResolvidoUm.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\10. SEÇÃO 10 - HERANÇA E POLIMORFISMO\EXERCICIOS\ExercicioResolvidoUm\ExercicioResolvidoUm\obj\Debug\net8.0\ref\ExercicioResolvidoUm.dll

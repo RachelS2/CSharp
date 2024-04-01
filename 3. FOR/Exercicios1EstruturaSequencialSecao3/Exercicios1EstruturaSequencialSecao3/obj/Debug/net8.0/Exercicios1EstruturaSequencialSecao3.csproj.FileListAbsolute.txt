@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\bin\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\bin\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\bin\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\bin\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\bin\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\refint\Exercicios1EstruturaSequencialSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\Exercicios1EstruturaSequencialSecao3.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\Exercicios1EstruturaSequencialSecao3\Exercicios1EstruturaSequencialSecao3\obj\Debug\net8.0\ref\Exercicios1EstruturaSequencialSecao3.dll

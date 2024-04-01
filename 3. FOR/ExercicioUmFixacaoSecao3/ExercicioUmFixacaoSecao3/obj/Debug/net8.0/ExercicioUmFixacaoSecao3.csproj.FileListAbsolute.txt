@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\bin\Debug\net8.0\ExercicioUmFixacaoSecao3.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\bin\Debug\net8.0\ExercicioUmFixacaoSecao3.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\bin\Debug\net8.0\ExercicioUmFixacaoSecao3.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\bin\Debug\net8.0\ExercicioUmFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\bin\Debug\net8.0\ExercicioUmFixacaoSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\refint\ExercicioUmFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ExercicioUmFixacaoSecao3.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioUmFixacaoSecao3\ExercicioUmFixacaoSecao3\obj\Debug\net8.0\ref\ExercicioUmFixacaoSecao3.dll

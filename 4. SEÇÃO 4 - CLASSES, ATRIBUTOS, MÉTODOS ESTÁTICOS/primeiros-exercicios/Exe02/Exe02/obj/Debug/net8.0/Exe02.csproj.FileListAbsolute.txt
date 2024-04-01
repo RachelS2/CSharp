@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\bin\Debug\net8.0\Exe02.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\bin\Debug\net8.0\Exe02.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\bin\Debug\net8.0\Exe02.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\bin\Debug\net8.0\Exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\bin\Debug\net8.0\Exe02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\refint\Exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\Exe02.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Exe02\Exe02\obj\Debug\net8.0\ref\Exe02.dll

@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\bin\Debug\net8.0\exe02.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\bin\Debug\net8.0\exe02.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\bin\Debug\net8.0\exe02.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\bin\Debug\net8.0\exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\bin\Debug\net8.0\exe02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\refint\exe02.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\exe02.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\exercicios fixação\exe02\exe02\obj\Debug\net8.0\ref\exe02.dll

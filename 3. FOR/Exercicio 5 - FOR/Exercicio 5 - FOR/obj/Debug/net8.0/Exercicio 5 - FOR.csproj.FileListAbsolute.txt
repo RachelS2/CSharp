@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\bin\Debug\net8.0\Exercicio 5 - FOR.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\bin\Debug\net8.0\Exercicio 5 - FOR.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\bin\Debug\net8.0\Exercicio 5 - FOR.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\bin\Debug\net8.0\Exercicio 5 - FOR.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\bin\Debug\net8.0\Exercicio 5 - FOR.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\refint\Exercicio 5 - FOR.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\Exercicio 5 - FOR.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\FOR\Exercicio 5 - FOR\Exercicio 5 - FOR\obj\Debug\net8.0\ref\Exercicio 5 - FOR.dll

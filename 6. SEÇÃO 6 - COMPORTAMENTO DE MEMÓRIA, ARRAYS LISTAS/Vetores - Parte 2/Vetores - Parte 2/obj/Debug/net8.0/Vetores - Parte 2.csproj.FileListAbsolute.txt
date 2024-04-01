@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\bin\Debug\net8.0\Vetores - Parte 2.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\bin\Debug\net8.0\Vetores - Parte 2.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\bin\Debug\net8.0\Vetores - Parte 2.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\bin\Debug\net8.0\Vetores - Parte 2.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\bin\Debug\net8.0\Vetores - Parte 2.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\refint\Vetores - Parte 2.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\Vetores - Parte 2.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\6. SEÇÃO 6 - COMPORTAMENTO DE MEMÓRIA, ARRAYS LISTAS\Vetores - Parte 2\Vetores - Parte 2\obj\Debug\net8.0\ref\Vetores - Parte 2.dll

@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\bin\Debug\net8.0\exefix.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\bin\Debug\net8.0\exefix.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\bin\Debug\net8.0\exefix.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\bin\Debug\net8.0\exefix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\bin\Debug\net8.0\exefix.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\refint\exefix.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\exefix.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\14. SEÇÃO 14 - INTERFACES\exefix\exefix\obj\Debug\net8.0\ref\exefix.dll

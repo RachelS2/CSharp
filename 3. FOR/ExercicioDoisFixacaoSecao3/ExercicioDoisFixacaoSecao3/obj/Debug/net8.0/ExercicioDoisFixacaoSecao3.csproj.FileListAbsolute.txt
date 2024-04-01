@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\bin\Debug\net8.0\ExercicioDoisFixacaoSecao3.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\bin\Debug\net8.0\ExercicioDoisFixacaoSecao3.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\bin\Debug\net8.0\ExercicioDoisFixacaoSecao3.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\bin\Debug\net8.0\ExercicioDoisFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\bin\Debug\net8.0\ExercicioDoisFixacaoSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\refint\ExercicioDoisFixacaoSecao3.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ExercicioDoisFixacaoSecao3.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\ExercicioDoisFixacaoSecao3\ExercicioDoisFixacaoSecao3\obj\Debug\net8.0\ref\ExercicioDoisFixacaoSecao3.dll

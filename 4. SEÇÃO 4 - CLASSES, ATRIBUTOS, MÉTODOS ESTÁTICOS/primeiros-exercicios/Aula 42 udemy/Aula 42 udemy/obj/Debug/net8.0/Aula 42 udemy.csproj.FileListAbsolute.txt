@@ -1,0 +1,14 @@
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\bin\Debug\net8.0\Aula 42 udemy.exe
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\bin\Debug\net8.0\Aula 42 udemy.deps.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\bin\Debug\net8.0\Aula 42 udemy.runtimeconfig.json
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\bin\Debug\net8.0\Aula 42 udemy.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\bin\Debug\net8.0\Aula 42 udemy.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.AssemblyInfoInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.AssemblyInfo.cs
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.csproj.CoreCompileInputs.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\refint\Aula 42 udemy.dll
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.pdb
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\Aula 42 udemy.genruntimeconfig.cache
+C:\Users\rachels\OneDrive - Microware\Documentos\Projetos\4. SEÇÃO 4 - CLASSES, ATRIBUTOS, MÉTODOS ESTÁTICOS\primeiros-exercicios\Aula 42 udemy\Aula 42 udemy\obj\Debug\net8.0\ref\Aula 42 udemy.dll

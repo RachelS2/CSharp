@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicios3EstruturaSequencialSecao3/1.0.0": {
+        "runtime": {
+          "Exercicios3EstruturaSequencialSecao3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios3EstruturaSequencialSecao3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
