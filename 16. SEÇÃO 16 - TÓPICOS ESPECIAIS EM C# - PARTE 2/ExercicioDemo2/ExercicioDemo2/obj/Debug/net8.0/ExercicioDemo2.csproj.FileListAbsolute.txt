@@ -1,0 +1,15 @@
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\bin\Debug\net8.0\ExercicioDemo2.exe
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\bin\Debug\net8.0\ExercicioDemo2.deps.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\bin\Debug\net8.0\ExercicioDemo2.runtimeconfig.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\bin\Debug\net8.0\ExercicioDemo2.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\bin\Debug\net8.0\ExercicioDemo2.pdb
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.AssemblyInfoInputs.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.AssemblyInfo.cs
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.csproj.CoreCompileInputs.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.sourcelink.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\refint\ExercicioDemo2.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.pdb
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ExercicioDemo2.genruntimeconfig.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\16. SEÇÃO 16 - TÓPICOS ESPECIAIS EM C# - PARTE 2\ExercicioDemo2\ExercicioDemo2\obj\Debug\net8.0\ref\ExercicioDemo2.dll
