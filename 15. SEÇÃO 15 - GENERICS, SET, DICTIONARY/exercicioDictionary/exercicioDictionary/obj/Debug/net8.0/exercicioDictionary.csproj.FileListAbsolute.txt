@@ -1,0 +1,16 @@
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\exercicioDictionary.exe
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\ArquivosTXT\Exemplo.txt
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\exercicioDictionary.deps.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\exercicioDictionary.runtimeconfig.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\exercicioDictionary.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\bin\Debug\net8.0\exercicioDictionary.pdb
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.AssemblyInfoInputs.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.AssemblyInfo.cs
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.sourcelink.json
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\refint\exercicioDictionary.dll
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.pdb
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\exercicioDictionary.genruntimeconfig.cache
+C:\Users\rachels\source\repos\RachelS2\CSharp\15. SEÇÃO 15 - GENERICS, SET, DICTIONARY\exercicioDictionary\exercicioDictionary\obj\Debug\net8.0\ref\exercicioDictionary.dll
